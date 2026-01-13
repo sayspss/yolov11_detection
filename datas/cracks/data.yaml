@@ -1,0 +1,15 @@
+path: /data1/zr/600-1.12/datas/cracks
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 1
+names: 
+  - crack
+
+roboflow:
+  workspace: damcrack
+  project: dam-crack
+  version: 1
+  license: Private
+  url: https://universe.roboflow.com/damcrack/dam-crack/dataset/1

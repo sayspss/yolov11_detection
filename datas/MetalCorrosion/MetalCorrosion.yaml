@@ -1,0 +1,7 @@
+path: /data1/zr/600-1.12/datas/MetalCorrosion
+train: train/images
+val: valid/images
+test: test/images
+nc: 1
+names:
+- corrosion
